@@ -1,7 +1,7 @@
 public class Leap {
 
   public static void main(String[] args) {
-    int year = 2022;
+    int year = 2122;
     boolean leap = false;
     if (year % 4 == 0) {
       if (year % 100 == 0) {
